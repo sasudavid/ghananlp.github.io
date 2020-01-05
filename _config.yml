@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ghana Natural Language Processing (NLP)"
+title                    : "Ghana NLP"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Open Source Initiative focused on Natural Language Processing (NLP) of Ghanaian Languages, & its Applications to Local Problems"
