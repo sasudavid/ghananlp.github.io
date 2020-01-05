@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /joinus
 title: "Join Ghana NLP"
 excerpt: "About Ghana NLP"
 author_profile: true
