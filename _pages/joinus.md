@@ -3,8 +3,7 @@ permalink: /joinus
 title: "Join Ghana NLP"
 excerpt: "About Ghana NLP"
 author_profile: true
-redirect_from: 
-  - /joinus
+redirect_from:
   - /joinus/
   - /joinus.html
 ---
