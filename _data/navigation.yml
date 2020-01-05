@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Resources"
     url: /publications/
 
-  - title: "Teaching"
+  - title: "People"
     url: /teaching/    
 
- # - title: "Resources"
- #   url: /resources/    
+  - title: "Join Us"
+    url: /talks/    
  #   
  #- title: "Contact"
  #  url: /contact/
- #       
- # - title: "Blog Posts"
- #   url: /year-archive/
