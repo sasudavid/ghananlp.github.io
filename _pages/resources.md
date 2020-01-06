@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Some resources to help you on this topic"
+title: "Some Resources to Get You Started"
 permalink: /resources/
 author_profile: true
 redirect_from:
@@ -12,10 +12,10 @@ redirect_from:
 
 On this page, we list resources that can help you started with NLP on Ghanaian languages. 
 
-Benefits
+Resource List
 ======
 * [BERT and mBERT (multilingual BERT)](https://github.com/google-research/bert)
 * [FastText Embeddings in Twi, Ewe, etc](https://fasttext.cc/docs/en/pretrained-vectors.html)
 * [JW300 parallel corpus including many African Languages](http://opus.nlpl.eu/JW300.php)
 * [Jehovah witness (nonparallel) website corpus, including many African Languages](https://www.jw.org/tw)
-* [Yoruba and Twi FastText/mBERT Embeddings Analysis](https://github.com/ajesujoba/YorubaTwi-Embedding)
+* [Twi and Yoruba FastText/mBERT Embeddings Analysis](https://github.com/ajesujoba/YorubaTwi-Embedding)
