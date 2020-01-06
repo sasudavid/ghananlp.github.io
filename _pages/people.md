@@ -14,7 +14,7 @@ Send us an email, or a message on any of the social media platforms listed on th
 
 Founding Team
 ======
-* [Paul Azunre](www.azunre.com) - NLP Researcher and Entrepreneur
+* [Paul Azunre](http://www.azunre.com) - NLP Researcher and Entrepreneur
 * [Demba Ba](http://brain.harvard.edu/?people=demba-ba) - Assistant Professor at Harvard, Deep Learning Researcher
 * [Steven E. Moore](https://directory.ucc.edu.gh/p/stephen-moore) - Mathematician at University of Cape Coast, Data Scientist
 * [Vincent K. Ampadu](https://www.linkedin.com/in/vincentmichaelkampadu/) - Data Scientist at Kwame Nkrumah University of Science and Tech (KNUST)
