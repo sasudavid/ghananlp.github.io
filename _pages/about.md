@@ -13,3 +13,5 @@ Open Source Initiative focused on Natural Language Processing (NLP) of Ghanaian 
 Agenda
 ======
 Outline agenda here, more details will be available on the github issues list.
+
+<a class="twitter-timeline" href="https://twitter.com/GhanaNLP?ref_src=twsrc%5Etfw">Tweets by GhanaNLP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
