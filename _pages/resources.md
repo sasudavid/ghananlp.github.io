@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-On this page, we list resources that can help you started with NLP on Ghanaian languages. 
+On this page, we list resources that can help you get started with NLP on Ghanaian languages. 
 
 Resource List
 ======
