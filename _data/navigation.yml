@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Resources"
-    url: /publications/
+    url: /resources/
 
   - title: "People"
-    url: /teaching/    
+    url: /people/    
 
   - title: "Join Us"
-    url: /joinus    
+    url: /joinus/    
  #   
  #- title: "Contact"
  #  url: /contact/
