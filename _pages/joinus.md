@@ -10,24 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Send us an email to join our github group and slack channel.
+Send us an email, or a message on any of the social media platforms listed on the left, to join our github group (github.com/GhanaNLP) and slack channel (ghananlp.slack.com).
 
 Benefits
 ======
