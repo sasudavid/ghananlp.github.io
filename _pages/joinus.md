@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Send us an email, or a message on any of the social media platforms listed on the left, to join our github group (github.com/GhanaNLP) and slack channel (ghananlp.slack.com).
+Send us an email at natural.language.processing.gh@gmail.com, or a message on any of the social media platforms listed on this website, to join our github group (github.com/GhanaNLP) and slack channel (ghananlp.slack.com).
 
 Benefits
 ======
