@@ -24,3 +24,4 @@ Team
 * Alfred Owusu Ansah - Lecturer of English at the Department of English, KNUST, with an interest in Digital Literacy for local languages
 * Acheampong Samuel Owoahene - Likpakpaanl (Konkomba) local language expert
 * [Nana Akwasi Abayie Boateng](http://restanalytics.com/) - Machine Learning Researcher
+* David Sasu - Computer Scientist
